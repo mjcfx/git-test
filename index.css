@@ -61,7 +61,7 @@ body{
     margin: 0 5px;
     border-radius: 50%;
     animation: animate linear 3s infinite;
-    animation-duration: calc(var(--i) * 2s);
+    animation-duration: calc(var(--i) * 3s);
 }
 @keyframes animate{
     0%{
